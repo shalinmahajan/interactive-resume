@@ -1,0 +1,7 @@
+Reference:
+list of websites: ["http://getbootstrap.com/css/","https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference",
+		   "http://jsonlint.com/","http://api.jquery.com/append/"]
+books:N/A
+forums: Piazza-Front-End Web Dev Nanodegree: Jan 2015
+blog posts:N/A
+Github repositories: N/A 
